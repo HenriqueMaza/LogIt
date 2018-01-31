@@ -1,0 +1,4 @@
+C:\Henrique\Pessoal\Git\LogIt\Infrastructure\bin\Debug\netcoreapp1.1\Infrastructure.deps.json
+C:\Henrique\Pessoal\Git\LogIt\Infrastructure\bin\Debug\netcoreapp1.1\Infrastructure.dll
+C:\Henrique\Pessoal\Git\LogIt\Infrastructure\obj\Debug\netcoreapp1.1\Infrastructure.csprojResolveAssemblyReference.cache
+C:\Henrique\Pessoal\Git\LogIt\Infrastructure\obj\Debug\netcoreapp1.1\Infrastructure.AssemblyInfo.cs
